@@ -1,1 +1,2 @@
 # Miscellaneous-code-practice
+notes
